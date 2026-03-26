@@ -119,26 +119,7 @@ http://localhost/ecommerce/
 * ✅ Search & Filters
 * ✅ User Profile
 
----
 
-## 👨‍💻 Author
-
-* **Bala Krishna**
-
----
-
-## 📄 License
-
-This project is for **learning and educational purposes**.
-
----
-
-## ⭐ Support
-
-If you like this project:
-
-* ⭐ Star the repository
-* 🍴 Fork it
 * 🛠️ Improve it
 
 ---
