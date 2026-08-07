@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Website (PHP + MySQL)
+ # 🛒 E-Commerce Website (PHP + MySQL)
 
 A simple and functional **E-Commerce Web Application** built using **PHP, MySQL, HTML, CSS**.
 This project allows users to browse products, add them to cart, and manage basic shopping operations.
